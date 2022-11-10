@@ -1,9 +1,75 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "users": [
+    {
+      "createdAt": "2022-11-09T12:43:34.269Z",
+      "name": "Marc Hills",
+      "username": "Lottie_Pacocha76",
+      "email": "Elinore.Koepp@yahoo.com",
+      "password": "prueba01",
+      "lastname": "O'Keefe",
+      "photo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/579.jpg",
+      "address": "187 Kihn Walk",
+      "city": "North Olaf",
+      "state": "Colorado",
+      "zipcode": "45292-1867",
+      "id": "1"
+    },
+    {
+      "createdAt": "2022-11-09T19:59:54.818Z",
+      "name": "Allison Conroy",
+      "username": "Dwight27",
+      "email": "Andre1@hotmail.com",
+      "password": "prueba01",
+      "lastname": "Prohaska",
+      "photo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/482.jpg",
+      "address": "581 Swaniawski Lodge",
+      "city": "Botsfordboro",
+      "state": "Missouri",
+      "zipcode": "38120-5246",
+      "id": "2"
+    },
+    {
+      "createdAt": "2022-11-09T22:11:29.647Z",
+      "name": "Ms. Esther Dibbert",
+      "username": "Milford80",
+      "email": "Alexis_Orn@gmail.com",
+      "password": "prueba01",
+      "lastname": "Daugherty",
+      "photo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/997.jpg",
+      "address": "535 Rath Radial",
+      "city": "San Angelo",
+      "state": "Kansas",
+      "zipcode": "46130",
+      "id": "3"
+    },
+    {
+      "createdAt": "2022-11-09T02:19:10.891Z",
+      "name": "Miss Clayton Blanda",
+      "username": "Dudley.Reinger",
+      "email": "Annabel_Nikolaus28@hotmail.com",
+      "password": "prueba01",
+      "lastname": "Dare",
+      "photo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1149.jpg",
+      "address": "43884 Donnell Expressway",
+      "city": "Dublin",
+      "state": "Kansas",
+      "zipcode": "79231-1889",
+      "id": "4"
+    },
+    {
+      "createdAt": "2022-11-09T22:42:37.319Z",
+      "name": "Amy Lockman",
+      "username": "Estrella49",
+      "email": "Emmy_Runolfsson33@yahoo.com",
+      "password": "prueba01",
+      "lastname": "Hickle",
+      "photo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/876.jpg",
+      "address": "4875 Grady Light",
+      "city": "North Vivienneborough",
+      "state": "Ohio",
+      "zipcode": "61202",
+      "id": "5"
+    }
   ],
   "profile": { "name": "typicode" }
 }
